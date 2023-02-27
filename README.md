@@ -10,3 +10,8 @@ tipo
 titulo = "voçe me deve:"
 valor = 450
 print (titulo .. "r$" .. valor)
+print("qual sua experincia?")
+ experincia= io.read()
+print("Então, o sua experincia é ".. experincia .. ". qual seu nome ?")
+nome = io.read()
+print("ahh, seu nome é ".. nome .."?")
