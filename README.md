@@ -15,3 +15,4 @@ print("qual sua experincia?")
 print("Então, o sua experincia é ".. experincia .. ". qual seu nome ?")
 nome = io.read()
 print("ahh, seu nome é ".. nome .."?")
+algoritimo  é  um problema  que tem solução  passo a passo explicação
