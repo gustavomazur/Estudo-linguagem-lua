@@ -16,3 +16,9 @@ print("Então, o sua experincia é ".. experincia .. ". qual seu nome ?")
 nome = io.read()
 print("ahh, seu nome é ".. nome .."?")
 algoritimo  é  um problema  que tem solução  passo a passo explicação
+
+function somarDoisNumeros (um, dois)
+    print("Soma de " .. um .. " com " .. dois .. " = " ..um + dois)
+end
+
+somarDoisNumeros(2, 2)
