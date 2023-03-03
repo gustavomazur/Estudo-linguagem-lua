@@ -22,3 +22,4 @@ function somarDoisNumeros (um, dois)
 end
 
 somarDoisNumeros(2, 2)
+variavel global  ela so acaba se  chegar no ead sempre vai aparecer , nao faz muito sentido usar ela ainda pra mim 
