@@ -23,4 +23,4 @@ end
 
 somarDoisNumeros(2, 2)
 variavel global  ela so acaba se  chegar no ead sempre vai aparecer , nao faz muito sentido usar ela ainda pmimt
-se (if) alguma coisa entao (then)se (if) alguma coisa entao (then)  faça isso 
+se (if) alguma coisa entao (then)se (if) alguma coisa entao (then)  faça isso  (end) finalizar
